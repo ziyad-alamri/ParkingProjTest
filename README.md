@@ -96,7 +96,7 @@ Updates parking status,
 Calculates parking fees, 
 
 
-AWS Services Used
+AWS Services Used:
 
 AWS Lambda for serverless computing.
 
