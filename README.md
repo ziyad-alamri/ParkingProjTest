@@ -2,6 +2,7 @@
 
 A serverless smart parking application that leverages AWS services for automatic license plate recognition and real-time parking management.
 
+https://ziyad-parking-project.link/
 ---
 
 ## Table of Contents
