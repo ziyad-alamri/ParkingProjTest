@@ -41,7 +41,7 @@ The `images/` folder contains test images for these scenarios:
   - **Scenarios:**  
     - **Entry Test:** responds with “حياك الله” and increments the counter.  
     - **Exit Test:** shows “في أمان الله”, displays parking duration & fee, updates the counter.  
-    - **Full Parking Test:** shows “المعذرة المواقف ممتلئة” when capacity is full.
+    - **Full Parking Test:** shows “المعذرة المواقف ممتلئة” when capacity is full( 3 cars is the max capacity).
 
 - **Recognition Failure Test**  
   - **Test image:** `image6.jpg`  
